@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import './App.css'
 
 const CAT_ENDPOINT_RANDOM_FACT = 'https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&has_breeds=true&order=RANDOM&page=0&limit=1'
 // const CAT_ENDPOINT_IMAGE_URL = `https://cataas.com/cat/says/${threeFirstWords}?fontSize=50&fontColor=red&json=true`

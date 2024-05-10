@@ -8,3 +8,8 @@ APIs:
 - Recupera un hecho aleatorio de gatos de la primera API 
 - Recupera la primera palabra del hecho.
 - Muestra una imagen de un gato con la primera palabra.
+
+
+[Resolucion prueba tecnica de react para juniors y Trainne](https://www.youtube.com/watch?v=XYpadB4VadY)
+
+- Me quede en el minuto 57 

@@ -1,0 +1,27 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    height: 100vh;
+}
+
+html {
+    font-size: 10px;
+}
+
+img {
+    width: 60rem;
+    border-radius: 1rem;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+p {
+    font-size: 2rem;
+    padding: 0rem 3rem;
+}
+
